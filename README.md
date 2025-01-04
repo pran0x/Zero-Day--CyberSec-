@@ -2,13 +2,7 @@
 
 ### 2025 has been started, and I make a target to make a carrer in Cyber Security... so my journey started now...
 
-
-
 #### This is a short repo that describe my journey.... let's started.
-
-
-
-
 
 ---
 
@@ -24,7 +18,25 @@ then I learn how networks works. here are some fundamental of network
 - DHCP
 - IPv4, IpV6
 - Static Network/ Dynamic Network
--  Subnet Mask
+- Subnet Mask
 - DNS / NS
 - Window Firewall system
-- 
+
+
+
+
+
+### Phase 01: Reconnaissance
+
+
+
+---
+
+I started looking for a wbsite, how hackers lookup it. some google advance key features make this look up even far better.
+
+ex: If I looking for an pdf of a book, i simply search it on google but in advance search i search it like this 
+
+```
+site:google.com filetype:pdf "Book Name"
+```
+
