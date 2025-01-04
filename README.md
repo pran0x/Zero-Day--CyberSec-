@@ -22,21 +22,20 @@ then I learn how networks works. here are some fundamental of network
 - DNS / NS
 - Window Firewall system
 
-
-
-
-
 ### Phase 01: Reconnaissance
-
-
 
 ---
 
-I started looking for a wbsite, how hackers lookup it. some google advance key features make this look up even far better.
+I started looking for a website, how hackers lookup it. some google advance key features make this lookup even far better.
 
-ex: If I looking for an pdf of a book, i simply search it on google but in advance search i search it like this 
+ex: If I looking for an pdf of a book, i simply search it on google but in advance search I search it like this:
 
 ```
 site:google.com filetype:pdf "Book Name"
 ```
 
+```html
+site:google.com filetype:pdf Penetration Testing Paperback
+```
+
+![Rec-01](/Image/rec01.png)
