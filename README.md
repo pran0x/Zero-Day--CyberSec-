@@ -22,9 +22,15 @@ then I learn how networks works. here are some fundamental of network
 - DNS / NS
 - Window Firewall system
 
+## Phases 
+
+1. [Phase 01](/Phase_01) 2. [Installation](#installation) 3. [Usage](#usage) 4. [Contributing](#contributing) 5. [License](#license)
+
 ### Phase 01: Reconnaissance
 
 ---
+
+<summary> Advance Searching 
 
 I started looking for a website, how hackers lookup it. some google advance key features make this lookup even far better.
 
@@ -38,4 +44,7 @@ site:google.com filetype:pdf "Book Name"
 site:google.com filetype:pdf Penetration Testing Paperback
 ```
 
-![Rec-01](/Image/rec01.png)Nmap is the popular and powerful tool .. 
+![Rec-01](/Image/rec01.png)
+
+Nmap is the popular and powerful tool .. 
+
