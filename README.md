@@ -24,7 +24,7 @@ then I learn how networks works. here are some fundamental of network
 
 ## Phases 
 
-1. [Phase 01](/Phase_01) 2. [Installation](#installation) 3. [Usage](#usage) 4. [Contributing](#contributing) 5. [License](#license)
+1. [Phase 01](Image/Phase_01) 2. [Installation](#installation) 3. [Usage](#usage) 4. [Contributing](#contributing) 5. [License](#license)
 
 ### Phase 01: Reconnaissance
 
@@ -47,4 +47,3 @@ site:google.com filetype:pdf Penetration Testing Paperback
 ![Rec-01](/Image/rec01.png)
 
 Nmap is the popular and powerful tool .. 
-
