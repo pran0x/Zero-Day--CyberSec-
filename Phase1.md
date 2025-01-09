@@ -8,11 +8,11 @@ In This  phase , we learn about Basic things,
 
 ---
 
-<details><summary>  ADVANCE SEARCH  <summary>
+<details><summary>  ADVANCE SEARCH  
 
-## How to advance Search :
+## how  to find  active ports on a website : 
 
-## how  to find  active ports on a website :
+<summary>
 
 we know that , every website has  a port that allows a user to Enter the website, port is like a door of a website.. common ports like :  
 
@@ -33,4 +33,3 @@ some list of dig tools showed below :
 ![img dig tool](/Image/Phase_01/DIG.png)</details>
 
 ---
-
