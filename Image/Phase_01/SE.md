@@ -24,6 +24,6 @@ sherlock <username>
 
 Results :
 
-![sherlock](Image/Phase_01/SL.png)
+![Image Example](/Image/Phase_01/SL.png)
 
 ##### MORE DETIALS  WILL BE ADDED IN SOON...........
