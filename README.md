@@ -32,22 +32,6 @@ then I learn how networks works. here are some fundamental of network
 
 ---
 
-Advance Searching 
-
-I started looking for a website, how hackers lookup it. some google advance key features make this lookup even far better.
-
-ex: If I looking for an pdf of a book, i simply search it on google but in advance search I search it like this:
-
-```
-site:google.com filetype:pdf "Book Name"
-```
-
-```html
-site:google.com filetype:pdf Penetration Testing Paperback
-```
-
-![Rec-01](/Image/rec01.png)
-
 </details>
 
 Nmap is the popular and powerful tool .. 
