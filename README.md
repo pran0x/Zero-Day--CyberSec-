@@ -26,11 +26,13 @@ then I learn how networks works. here are some fundamental of network
 
 1. [Phase 01](Phase1) 2. [Installation](#installation) 3. [Usage](#usage) 4. [Contributing](#contributing) 5. [License](#license)
 
-### Phase 01: Reconnaissance
+<details> 
+
+<summary>Phase 01: Reconnaissance </summary>
 
 ---
 
-<summary> Advance Searching 
+Advance Searching 
 
 I started looking for a website, how hackers lookup it. some google advance key features make this lookup even far better.
 
@@ -45,5 +47,7 @@ site:google.com filetype:pdf Penetration Testing Paperback
 ```
 
 ![Rec-01](/Image/rec01.png)
+
+</details>
 
 Nmap is the popular and powerful tool .. 
