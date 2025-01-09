@@ -8,6 +8,8 @@ In This  phase , we learn about Basic things,
 
 ---
 
+<details><summary>  ADVANCE SEARCH  <summary>
+
 ## How to advance Search :
 
 ## how  to find  active ports on a website :
@@ -28,7 +30,7 @@ Here ns is name server (ns)
 
 some list of dig tools showed below : 
 
-![img dig tool](/Image/Phase_01/DIG.png)
+![img dig tool](/Image/Phase_01/DIG.png)</details>
 
 ---
 
