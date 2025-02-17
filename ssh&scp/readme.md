@@ -46,6 +46,11 @@
   - Enter password and boom!
   ![Linux to Windows Connection](<linux_Windows.png>)
 
+# SCP : stand for `SECURE FILE COPY`
+
+  ## Useses: [SCP](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)
+
+
   ________________________________
   # 
                                             HAPPY HACKING 
