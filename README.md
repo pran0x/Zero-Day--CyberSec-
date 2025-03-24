@@ -26,12 +26,6 @@ then I learn how networks works. here are some fundamental of network
 
 1. [Phase 01](Phase1.md) 2. [Installation](#installation) 3. [Usage](#usage) 4. [Contributing](#contributing) 5. [License](#license)
 
-<details> 
 
-<summary>Phase 01: Reconnaissance </summary>
-
----
-
-</details>
 
 Nmap is the popular and powerful tool .. 
