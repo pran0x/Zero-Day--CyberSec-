@@ -1,11 +1,11 @@
-# Phase 01 :
+# Phase 01 : BASIC Reconocence
 
 In This  phase , we learn about Basic things,
 
 1. Advance Search on google
 2. Find Active Ports on a website.
 3. Social Engineering for find  person 
-
+4. SSH & SCP [Remote Connection & File transfer]
 ---
 
 # TOPICS:
@@ -92,11 +92,26 @@ Results :
 
 </details>
 
----
 <details><summary>SSH & SCP</summary>
  
  [[SSH & SCP]----> click here](https://github.com/pran0x/MY-CYBER-JOURNEY/blob/9a52c40243f6b78f54676a707c5349ade6b657a8/ssh&scp/readme.md)
 
 </details>
 
-[<> Back ](https://github.com/pran0x/MY-CYBER-JOURNEY/blob/bdd07c2edb033502c8c445de575178e8f845f585/README.md)
+---
+
+[<< Go Back](https://github.com/pran0x/MY-CYBER-JOURNEY/blob/bdd07c2edb033502c8c445de575178e8f845f585/README.md)
+
+
+
+                                            HAPPY HACKING 
+                                            
+
+
+
+                            ____ _______      ____  ___________________ 
+                          / __ \/ ____/ |  / / __ \/ /| |  / /____/ ___\\
+                         / /_/ / __/  | | / / / / / / | | / / __/ / /_/ /
+                        / _, _/ /___  | |/ / /_/ / /__| |/ / /___/ _, _/  
+                       /_/ |_/_____/  |___/\____/_____/___/_____/_/ |_|   
+                                    Written By ROOT~REVOLVER
