@@ -93,3 +93,8 @@ Results :
 </details>
 
 ---
+<details><summary>SSH & SCP</summary>
+ 
+ [[SSH & SCP]----> click here](https://github.com/pran0x/MY-CYBER-JOURNEY/blob/9a52c40243f6b78f54676a707c5349ade6b657a8/ssh&scp/readme.md)
+
+</details>
