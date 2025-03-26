@@ -28,4 +28,3 @@ then I learn how networks works. here are some fundamental of network
 
 
 
-Nmap is the popular and powerful tool .. 
